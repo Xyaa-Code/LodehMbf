@@ -1,4 +1,4 @@
-<img src="https://github.com/Xyaa-Code/LodehMbf/blob/main/data/img/Picsart_23-02-07_01-19-43-498.jpg">
+<img src="https://github.com/Xyaa-Code/LodehMbf/blob/main/data/img/Picsart_23-02-09_17-09-15-819.jpg">
 
 
 #### CARA INSTALL SCRIPT:
