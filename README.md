@@ -1,4 +1,3 @@
-##### minimal kasih bintang bruh⭐
 
 <img src="https://github.com/Xyaa-Code/LodehMbf/blob/main/data/img/Picsart_23-02-09_17-12-56-114.jpg">
 
