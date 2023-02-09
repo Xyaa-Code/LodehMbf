@@ -27,10 +27,6 @@
 ##### Login script:
 ```cookie``` jika kamu belum tau cara mendapatkan cookie [klik disini](https://youtu.be/HEFFV-_60j0)
 
-##### info:
- script ini juga cuma bisa dijalanin di python versi 3.11 untuk mengecek versi python
- ketik perintah ini : ```python --version```
-
 ##### catatan:
  gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
