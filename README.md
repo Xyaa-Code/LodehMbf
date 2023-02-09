@@ -13,6 +13,7 @@
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
   $ cd LodehMbf
+  $ pip install -r requirements.txt
   $ git pull
   $ python run.py
 ```
