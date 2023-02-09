@@ -12,6 +12,7 @@
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
+ $ pkg install play-audio 
  $ git clone https://github.com/Xyaa-Code/LodehMbf
  ```
  oke sekarang script sudah terinstall
