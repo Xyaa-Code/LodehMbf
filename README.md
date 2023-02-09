@@ -1,5 +1,11 @@
 <img src="https://github.com/Xyaa-Code/LodehMbf/blob/main/data/img/Picsart_23-02-09_17-12-56-114.jpg">
 
+<p align=center>
+  <a href="https://www.facebook.com/Aditya.putraXD991"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
+  <a href="https://instagram.com/xyaacode"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+  <a href="https://t.me/g4rzk"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp;
+</p>
+
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
