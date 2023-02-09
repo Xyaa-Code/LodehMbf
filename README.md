@@ -17,6 +17,9 @@
   $ python run.py
 ```
 
+##### Login script:
+```cookie``` jika kamu belum tau cara mendapatkan cookie [klik disini](https://f-droid.org/repo/com.termux_117.apk)
+
 ##### info:
  script ini juga cuma bisa dijalanin di python versi 3.11 untuk mengecek versi python
  ketik perintah ini : ```python --version```
