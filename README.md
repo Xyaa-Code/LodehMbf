@@ -7,6 +7,11 @@
   <a href="https://wa.me/+16143244921"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20170314151554%21WhatsApp_logo.svg"></a>&nbsp;
 </p>
 
+##### results crack:
+<img src="https://github.com/Xyaa-Code/LodehMbf/blob/main/data/img/IMG_20230211_193441.jpg">
+
+##### group:
+- join group WhatsApp [klik disini](https://chat.whatsapp.com/DGJQppzzJMKGYMrHeMB7mQ)
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
